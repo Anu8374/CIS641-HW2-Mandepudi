@@ -5,4 +5,5 @@ Hi This is Anu,
 - Journaling is my favourite hobby
 - I would like to try differnt kinds of food
 ## Technical Background
+I have sucessfully completed my undergraduate program,majoring in Computer Science and Engineering.
 ###
