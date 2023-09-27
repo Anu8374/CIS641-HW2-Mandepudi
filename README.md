@@ -4,6 +4,7 @@ Hi This is Anu,
 - I prefer to go out with my friends
 - Journaling is my favourite hobby
 - I would like to try differnt kinds of food
+- Come to my favorite hobby playimg cricket with my cousins.
 ## Technical Background
 I have sucessfully completed my undergraduate program,majoring in Computer Science and Engineering.
 I learned some of programiming languages such as C,C++,Python. After completing my under graduation i wroked as a Test Analyst in Oracle Cerner.
