@@ -7,7 +7,8 @@ Hi This is Anu,
 - Playimg cricket with my cousins makes me happy.
 ## Technical Background
 I have sucessfully completed my undergraduate program,majoring in Computer Science and Engineering.
-I learned some of programiming languages such as C,C++,Python. After completing my under graduation i wroked as a Test Analyst in Oracle Cerner.
+I learned some of programiming languages such as C,C++,Python. 
+-Work experience After completing my under graduation i wroked as a Test Analyst in Oracle Cerner.
 My responsibilite was using different techniques of testing  to improve perfomance and quality of the product.
 ### Meme
 ![alt text](https://cdn.britannica.com/45/5645-050-B9EC0205/head-treasure-flower-disk-flowers-inflorescence-ray.jpg)
